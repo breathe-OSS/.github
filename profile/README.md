@@ -9,6 +9,7 @@ This organization contains all the important repositories required to build the 
 ### Data providers:
 
 - CPCB (Central Pollution Control Board)
+- OpenAQ
 - Open-Meteo
 
 Organization maintained by [sidharthify](https://github.com/sidharthify)
