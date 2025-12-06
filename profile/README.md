@@ -4,6 +4,7 @@ This organization contains all the important repositories required to build the 
 
 ### Required repositories
 * [**Breathe App (Kotlin)**](https://github.com/breathe-OSS/breathe) (`breathe`)
+* [**Breathe Webapp (CSS/JS/HTML)**](https://github.com/breathe-OSS/site) (`site`)
 * [**Breathe API (Python)**](https://github.com/breathe-OSS/api) (`api`)
 
 ### Data providers:
