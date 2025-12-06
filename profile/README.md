@@ -2,7 +2,7 @@
 
 This organization contains all the important repositories required to build the **Breathe** App
 
-### Required repositories
+### Repositories
 * [**Breathe App (Kotlin)**](https://github.com/breathe-OSS/breathe) (`breathe`)
 * [**Breathe Webapp (CSS/TS/HTML)**](https://github.com/breathe-OSS/site) (`site`)
 * [**Breathe API (Python)**](https://github.com/breathe-OSS/api) (`api`)
