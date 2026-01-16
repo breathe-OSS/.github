@@ -9,8 +9,7 @@ This organization contains all the important repositories required to build the 
 
 ### Data providers:
 
-- CPCB (Central Pollution Control Board)
-- OpenAQ
+- AirGradient, for PM2.5 and PM10 values in crowdfunded areas, which are Jammu and Srinagar as of now.
 - Open-Meteo
 
 Organization maintained by [sidharthify](https://github.com/sidharthify)
