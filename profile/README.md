@@ -42,4 +42,4 @@ This organization is maintained by [sidharthify](https://github.com/sidharthify)
 - **suveshmoza** - Contributor & developer
 - **empirea9** - Contributor
 
-We are welcoming pull requests and issues across all our repositories! Feel free to contribute, but do check [this](https://sidharthify.me/blogs/blog-10-2-26/#section-24)
+We are welcoming pull requests and issues across all our repositories! Feel free to contribute, but do check [this](https://sidharthify.tech/blogs/blog-10-2-26/#section-24)
