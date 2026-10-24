@@ -6,6 +6,8 @@
 
 Due to sparse sensor networks and unreliable public data, AQI metrics varying wildly between platforms. Breathe aims to solve this by building a strictly curated, ground-truth network using localized physical sensors and validated satellite tracking.
 
+[Web app](https://breatheoss.app) · [About](https://about.breatheoss.app) · [Blog](https://blogs.breatheoss.app) · [Discord](https://discord.breatheoss.app)
+
 ---
 
 ## Our Platforms
@@ -20,6 +22,8 @@ This organization contains all the repositories required to build and maintain t
   The official portfolio and webapp (CSS/TS/HTML).
 * **[Breathe API](https://github.com/breathe-OSS/api)** (`api`)  
   Our Python/FastAPI backend calculating real-time NAQI and US AQI based on curated data.
+* **[Breathe Blog](https://github.com/breathe-OSS/blogs)** (`blogs`)  
+  The BreatheOSS blog at [blogs.breatheoss.app](https://blogs.breatheoss.app), with posts built on our own sensor data.
 
 ## Data Providers
 
