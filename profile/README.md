@@ -63,9 +63,9 @@ This organization is maintained by [sidharthify](https://github.com/sidharthify)
 - **[sidharthify](https://github.com/sidharthify)** - Lead Developer
 - **[FlashWreck](https://github.com/FlashWreck)** - Lead Developer, DevOps
 - **[Lostless1907](https://github.com/Lostless1907)** - Developer
+- **[SleeperOfSaturn](https://github.com/SleeperOfSaturn)** - Developer, iOS App Co-dev
 - **[Altair Irfan](https://www.linkedin.com/in/altairirfan/)** - Core Team
 - **[suveshmoza](https://github.com/suveshmoza)** - Developer
-- **[SleeperOfSaturn](https://github.com/SleeperOfSaturn)** - iOS App Co-lead
 - **[empirea9](https://github.com/empirea9)** - Contributor
 - **[sandeepxi](https://github.com/sandeepxi)** - Contributor
 - **[oldschoolfellow](https://github.com/oldschoolfellow)** - Contributor

@@ -31,6 +31,15 @@
       "areas": ["android", "ios", "web"]
     },
     {
+      "name": "Sannidhya Sharma",
+      "display": "SleeperOfSaturn",
+      "github": "SleeperOfSaturn",
+      "avatar": "saturn.webp",
+      "role": "Developer, iOS App Co-dev",
+      "tier": "core",
+      "areas": ["ios"]
+    },
+    {
       "name": "Altair Irfan",
       "display": "Altair Irfan",
       "url": "https://www.linkedin.com/in/altairirfan/",
@@ -54,15 +63,6 @@
       "role": "Developer",
       "tier": "contributor",
       "areas": ["android", "ios", "web"]
-    },
-    {
-      "name": "Sannidhya Sharma",
-      "display": "SleeperOfSaturn",
-      "github": "SleeperOfSaturn",
-      "avatar": "saturn.webp",
-      "role": "iOS App Co-lead",
-      "tier": "contributor",
-      "areas": ["ios"]
     },
     {
       "name": "Aditya Choudhary",
