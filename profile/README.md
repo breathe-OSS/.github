@@ -39,12 +39,20 @@ We are actively working to deploy custom physical sensors to improve data densit
 
 This organization is maintained by [sidharthify](https://github.com/sidharthify). This project is proudly built and maintained as Free & Open Source Software (FOSS).
 
-- **sidharthify** - Lead Dev
-- **Flashwreck** - Lead dev & devops maintainer
-- **SleeperOfSaturn** - iOS app co-lead
-- **Lostless1907** - Contributor & developer
-- **suveshmoza** - Contributor & developer
-- **empirea9** - Contributor
-- **sandeepxi** - Contributor
+<!-- contributors:start -->
+- **[sidharthify](https://github.com/sidharthify)** - Lead Developer
+- **[FlashWreck](https://github.com/FlashWreck)** - Lead Developer, DevOps
+- **[Lostless1907](https://github.com/Lostless1907)** - Developer
+- **[Altair Irfan](https://www.linkedin.com/in/altairirfan/)** - Core Team
+- **[suveshmoza](https://github.com/suveshmoza)** - Developer
+- **[SleeperOfSaturn](https://github.com/SleeperOfSaturn)** - iOS App Co-lead
+- **[empirea9](https://github.com/empirea9)** - Contributor
+- **[sandeepxi](https://github.com/sandeepxi)** - Contributor
+- **[oldschoolfellow](https://github.com/oldschoolfellow)** - Contributor
+- **[Rudhransh Damral](https://www.instagram.com/the_rudhransh/)** - Contributor
+- **[Historeel](https://www.instagram.com/historeel/)** - Contributor
+
+Everyone else who helped, including partner organisations, is on [about.breatheoss.app](https://about.breatheoss.app/#people).
+<!-- contributors:end -->
 
 We are welcoming pull requests and issues across all our repositories! Feel free to contribute, but do check [this](https://sidharthify.tech/blogs/blog-10-2-26/#want-to-contribute)
