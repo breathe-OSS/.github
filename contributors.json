@@ -1,0 +1,144 @@
+{
+  "people": [
+    {
+      "name": "Sidharth \"Siddhi\" Sharma",
+      "display": "sidharthify",
+      "github": "sidharthify",
+      "website": "https://sidharthify.tech",
+      "avatar": "siddhi.png",
+      "role": "Lead Developer",
+      "tier": "core",
+      "founder": true,
+      "areas": ["android", "ios", "web", "api", "docs", "blogs", "qt"]
+    },
+    {
+      "name": "Aaditya Gupta",
+      "display": "FlashWreck",
+      "github": "FlashWreck",
+      "avatar": "flashwreck.png",
+      "role": "Lead Developer, DevOps",
+      "tier": "core",
+      "founder": true,
+      "areas": ["android", "ios", "web", "api"]
+    },
+    {
+      "name": "Veer P.S Sambyal",
+      "display": "Lostless",
+      "github": "Lostless1907",
+      "avatar": "lostless.webp",
+      "role": "Developer",
+      "tier": "core",
+      "areas": ["android", "ios", "web"]
+    },
+    {
+      "name": "Altair Irfan",
+      "display": "Altair Irfan",
+      "url": "https://www.linkedin.com/in/altairirfan/",
+      "avatar": "altair.jpg",
+      "role": "Core Team",
+      "tier": "core",
+      "areas": []
+    },
+    {
+      "name": "Mr. X",
+      "display": "Mr. X",
+      "private": true,
+      "tier": "core",
+      "areas": []
+    },
+    {
+      "name": "Suvesh Moza",
+      "display": "Suvesh Moza",
+      "github": "suveshmoza",
+      "avatar": "suveshmoza.png",
+      "role": "Developer",
+      "tier": "contributor",
+      "areas": ["android", "ios", "web"]
+    },
+    {
+      "name": "Sannidhya Sharma",
+      "display": "SleeperOfSaturn",
+      "github": "SleeperOfSaturn",
+      "avatar": "saturn.webp",
+      "role": "iOS App Co-lead",
+      "tier": "contributor",
+      "areas": ["ios"]
+    },
+    {
+      "name": "Aditya Choudhary",
+      "display": "EmpireA9",
+      "github": "empirea9",
+      "avatar": "empirea9.jpg",
+      "role": "Contributor",
+      "tier": "contributor",
+      "areas": ["android"]
+    },
+    {
+      "name": "Sandeep Kumar",
+      "display": "Sandeep",
+      "github": "sandeepxi",
+      "avatar": "sandeepxi.png",
+      "role": "Contributor",
+      "tier": "contributor",
+      "areas": ["web"]
+    },
+    {
+      "name": "Vin",
+      "display": "oldschoolfellow",
+      "github": "oldschoolfellow",
+      "avatar": "oldschoolfellow.png",
+      "role": "Contributor",
+      "tier": "contributor",
+      "areas": ["api"]
+    },
+    {
+      "name": "Rudhransh Damral",
+      "display": "Rudhransh Damral",
+      "url": "https://www.instagram.com/the_rudhransh/",
+      "avatar": "rudhransh.jpg",
+      "role": "Contributor",
+      "tier": "contributor",
+      "areas": []
+    },
+    {
+      "name": "Historeel",
+      "display": "Historeel",
+      "url": "https://www.instagram.com/historeel/",
+      "avatar": "historeel.jpg",
+      "role": "Contributor",
+      "tier": "contributor",
+      "areas": []
+    },
+    {
+      "name": "Zero Waste Ladakh",
+      "display": "Zero Waste Ladakh",
+      "url": "https://www.zerowasteladakh.com/",
+      "avatar": "zerowasteladakh_white.jpg",
+      "role": "Contributor",
+      "tier": "contributor",
+      "org": true,
+      "areas": []
+    },
+    {
+      "name": "GCET Jammu",
+      "display": "GCET Jammu",
+      "longName": "GCET Jammu (Government College of Engineering and Technology, Jammu)",
+      "url": "https://gcetj.ac.in/",
+      "avatar": "gcet.jpg",
+      "role": "Contributor",
+      "tier": "contributor",
+      "org": true,
+      "areas": []
+    },
+    {
+      "name": "University of Kashmir",
+      "display": "University of Kashmir",
+      "url": "https://www.kashmiruniversity.net/",
+      "avatar": "kashmiruniversity_white.jpg",
+      "role": "Contributor",
+      "tier": "contributor",
+      "org": true,
+      "areas": []
+    }
+  ]
+}
