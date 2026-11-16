@@ -123,14 +123,29 @@ const targets = [
   {
     file: 'github/profile/README.md',
     apply: (t, f) =>
-      replaceBetween(t, '<!-- contributors:start -->', '<!-- contributors:end -->', () =>
-        people
-          .filter((p) => !p.private && !p.org)
-          .map((p) => {
-            const name = p.github ? `[${p.github}](${linkOf(p)})` : `[${p.name}](${linkOf(p)})`;
-            return `- **${name}** - ${p.role}`;
-          })
-          .concat(['', `Everyone else who helped, including partner organisations, is on [about.breatheoss.app](${ABOUT_PEOPLE}).`]), f),
+      replaceBetween(t, '<!-- contributors:start -->', '<!-- contributors:end -->', () => {
+        const row = (p) => {
+          const name = p.github ? `[${p.github}](${linkOf(p)})` : `[${p.name}](${linkOf(p)})`;
+          if (p.role === 'Contributor' || p.role === 'Core Team') {
+            return `- **${name}**`;
+          }
+          return `- **${name}** - ${p.role}`;
+        };
+        const privateCount = core.filter((p) => p.private).length;
+        const lines = ['### Core Team', '', ...publicCore.map(row)];
+        if (privateCount > 0) {
+          lines.push('', `_Plus ${privateCount === 1 ? 'one member' : `${privateCount} members`} whose name is withheld for privacy._`);
+        }
+        lines.push(
+          '',
+          '### Contributors',
+          '',
+          ...contributors.filter((p) => !p.org).map(row),
+          '',
+          `Everyone else who helped, including partner organisations, is on [about.breatheoss.app](${ABOUT_PEOPLE}).`
+        );
+        return lines;
+      }, f),
   },
   {
     file: 'about/index.html',

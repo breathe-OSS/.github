@@ -60,17 +60,24 @@ We are actively working to deploy custom physical sensors to improve data densit
 This organization is maintained by [sidharthify](https://github.com/sidharthify). This project is proudly built and maintained as Free & Open Source Software (FOSS).
 
 <!-- contributors:start -->
+### Core Team
+
 - **[sidharthify](https://github.com/sidharthify)** - Lead Developer
 - **[FlashWreck](https://github.com/FlashWreck)** - Lead Developer, DevOps
 - **[Lostless1907](https://github.com/Lostless1907)** - Developer
 - **[SleeperOfSaturn](https://github.com/SleeperOfSaturn)** - Developer, iOS App Co-dev
-- **[Altair Irfan](https://www.linkedin.com/in/altairirfan/)** - Core Team
+- **[Altair Irfan](https://www.linkedin.com/in/altairirfan/)**
+
+_Plus one member whose name is withheld for privacy._
+
+### Contributors
+
 - **[suveshmoza](https://github.com/suveshmoza)** - Developer
-- **[empirea9](https://github.com/empirea9)** - Contributor
-- **[sandeepxi](https://github.com/sandeepxi)** - Contributor
-- **[oldschoolfellow](https://github.com/oldschoolfellow)** - Contributor
-- **[Rudhransh Damral](https://www.instagram.com/the_rudhransh/)** - Contributor
-- **[Historeel](https://www.instagram.com/historeel/)** - Contributor
+- **[empirea9](https://github.com/empirea9)**
+- **[sandeepxi](https://github.com/sandeepxi)**
+- **[oldschoolfellow](https://github.com/oldschoolfellow)**
+- **[Rudhransh Damral](https://www.instagram.com/the_rudhransh/)**
+- **[Historeel](https://www.instagram.com/historeel/)**
 
 Everyone else who helped, including partner organisations, is on [about.breatheoss.app](https://about.breatheoss.app/#people).
 <!-- contributors:end -->
